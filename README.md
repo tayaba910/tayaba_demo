@@ -1,2 +1,3 @@
 # tayaba_demo
-this is my first repository
+This is my first GIT repository.
+Author - Tayaba akter
